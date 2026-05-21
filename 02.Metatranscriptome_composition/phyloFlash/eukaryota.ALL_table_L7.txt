@@ -1,0 +1,631 @@
+OTU	Domain	Supergroup	Phylum	Class	Order	Family	Genus	Species	MDBC01_rep	MDBC03_rep	MDBC04_rep	MDBC05_rep	MDBC06_rep	MDBC09_rep	MDBC11_rep	MDBC18_rep	MDBC21_rep	MDBC28_rep	MDBC29_rep	MDBC30_rep	MDBC32_rep	MDBC33_rep	MDBC34_rep	MDBC35_rep	MDBC36_rep	MDBC37_rep	MDBC38_rep	MDBC42_rep	MDBC44_rep	MDBC45_rep	MDBC46_rep	
+83	Eukaryota	Opisthokonta	Cnidaria	Octocorallia	Malacalcyonacea	Plexauridae			47521	27786	20663	24385	20625	45194	202944	25850	21165	29901	15930	26331	137257	24654	18381	75326	49145	70249	36609	40363	42366	41595	30962	
+265	Eukaryota	SAR	Myzozoa	Conoidasida	Eucoccidiorida				4069	26941	26006	55950	96487	22474	14827	6835	231621	24488	954	247	4	51	74	3946	3037	779	38	1090	1015	31	11	
+314	Eukaryota	SAR	Myzozoa	Dinophyceae	Peridiniales				764	388	320	602	227	339	516	278	889	126	903	204	0	1	0	0	0	0	0	0	0	1	1	
+290	Eukaryota	SAR	Ciliophora	Spirotrichea	Licnophorida	Licnophoridae	Licnophoria		620	1	6	40	0	11924	0	0	0	11	0	0	0	0	1	23	1	0	0	0	0	0	0	
+1	Eukaryota	(Eukaryota)	(Eukaryota)	(Eukaryota)					442	332	205	209	268	779	968	343	234	304	252	470	732	175	90	191	545	644	167	152	349	118	353	
+34	Eukaryota	Amorphea	Amoebozoa	Discosea	Centramoebida	Acanthamoebidae	Acanthamoeba		243	276	147	165	228	472	193	261	126	150	36	235	55	113	116	783	288	304	117	105	245	79	163	
+291	Eukaryota	SAR	Ciliophora	Spirotrichea					219	75	34	335	57	66	164	44	77	108	528	20	0	4	81	40	27	37	83	12	263	30	97	
+255	Eukaryota	SAR	(SAR)	(SAR)					176	99	73	111	284	306	196	84	247	65	705	24	0	47	7	36	6	39	21	3	90	29	44	
+92	Eukaryota	Fungi	LKM15	(LKM15)					141	177	140	32	306	549	29	42	0	142	0	0	2	0	0	0	0	22	0	0	0	0	0	
+2	Eukaryota	Amorphea	(Amorphea)	(Amorphea)					138	78	48	53	162	319	59	68	31	40	21	371	23	51	17	64	200	292	73	46	86	61	52	
+91	Eukaryota	Fungi	Dikarya	(Dikarya)					127	98	71	62	177	294	56	139	74	107	38	104	355	290	111	1480	126	2381	79	60	93	2609	476	
+105	Eukaryota	Archaeplastida	Chloroplastida	Embryophyta	Embryophyta				123	68	62	65	63	145	110	128	45	38	61	222	46	55	33	186	313	218	94	75	105	115	128	
+287	Eukaryota	SAR	Ciliophora	Spirotrichea					116	63	26	175	12	22	54	16	27	16	197	14	0	0	0	0	0	0	0	0	0	0	0	
+279	Eukaryota	SAR	Ciliophora	Oligohymenophorea					114	18	27	111	27	66	356	191	86	70	135	28	0	0	13	8	24	134	31	0	24	4	255	
+81	Eukaryota	Opisthokonta	Choanozoa	(Choanozoa)					78	40	49	27	12	60	37	51	8	16	9	157	50	32	18	15	108	45	25	30	53	9	43	
+80	Eukaryota	Opisthokonta	Opisthokonta	Opisthokonta					74	62	32	39	63	292	53	76	39	44	10	380	39	78	37	205	227	185	35	60	95	95	58	
+158	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Porphyra-Pyropia			63	33	32	8	9	23	12	37	20	10	9	9	12	27	32	9	33	65	26	24	54	1	18	
+111	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas		49	37	26	13	12	14	9	25	8	2	7	15	1	5	4	140	65	104	69	24	25	10	19	
+300	Eukaryota	SAR	Myzozoa	Dinophyceae					45	30	11	32	17	517	315	48	97	19	152	16	0	5	0	3	0	5	0	1	0	5	4	
+254	Eukaryota	SAR	(SAR)	(SAR)					33	23	15	12	20	82	49	18	18	16	44	5	6	8	7	12	2	307	12	2	23	3	52	
+132	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae					30	29	15	25	11	32	14	42	21	8	3	1	7	11	9	4	4	17	2	7	20	5	10	
+90	Eukaryota	Fungi	Cryptomycota	(Cryptomycota)					26	26	12	6	30	81	5	4	0	12	0	1	0	0	0	0	0	5	0	0	0	0	2	
+126	Eukaryota	Archaeplastida	Chloroplastida	Mamiellophyceae	Mamiellales	Mamiellaceae	Micromonas		25	47	18	60	67	76	130	190	30	50	7	29	35	33	19	962	80	115	34	32	35	81	28	
+98	Eukaryota	Amorphea	Opisthokonta	Holomycota	Rotosphaerida	Nucleariidae			23	23	11	4	33	107	3	10	1	11	8	4	0	0	0	1	3	12	0	0	1	0	1	
+571	Eukaryota	SAR	Ochrophyta	(Ochrophyta)					23	32	13	11	19	65	15	8	10	28	7	54	13	57	19	236	62	101	22	24	35	56	31	
+592	Eukaryota	SAR	Heterokontophyta	Mediophyceae					22	13	17	4	34	98	9	7	3	20	10	15	3	7	0	5	5	24	0	2	6	6	19	
+101	Eukaryota	Archaeplastida	Chloroplastida	Charophyta					15	9	10	0	9	5	3	8	6	1	2	2	7	2	7	0	6	28	16	7	15	3	8	
+353	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group I	uncultured eukaryote	14	14	5	30	3	7	36	2	13	1	34	5	0	1	0	0	0	1	0	0	0	0	0	
+49	Eukaryota	Amorphea	Amoebozoa	(Amoebozoa)				uncultured freshwater eukaryote	13	5	8	3	16	30	0	2	0	1	0	0	0	0	0	0	0	4	0	0	0	0	0	
+114	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Coelastrella		12	25	8	14	7	13	7	24	27	7	6	10	6	8	6	8	23	16	7	4	19	6	9	
+337	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales				12	22	7	22	16	41	33	28	43	9	125	42	0	0	0	0	0	2	0	0	3	0	1	
+82	Eukaryota	Opisthokonta	Choanozoa	Choanoflagellata					10	9	3	5	10	32	5	15	4	13	4	57	8	11	9	39	21	54	7	5	14	7	23	
+100	Eukaryota	Archaeplastida	Chloroplastida	(Chloroplastida)					10	2	6	1	3	5	2	4	2	2	0	0	1	5	2	3	7	7	4	6	2	1	8	
+286	Eukaryota	SAR	Ciliophora	Spirotrichea					10	5	1	6	0	3	11	2	8	5	21	3	0	5	1	17	6	0	14	7	13	2	10	
+89	Eukaryota	Fungi	Chytridiomycota	(Chytridiomycota)					9	1	0	4	4	4	4	3	0	2	3	0	1	0	0	3	0	3	0	0	0	0	5	
+87	Eukaryota	Fungi	(Fungi)	(Fungi)					8	18	9	3	25	66	6	5	1	12	6	20	2	3	0	3	11	19	0	0	5	6	18	
+309	Eukaryota	SAR	Myzozoa	Dinophyceae	Suessiales	Suessiaceae			8	0	0	0	0	0	6	1	0	1	41	1	0	6	0	0	1	1	0	0	0	10	1	
+84	Eukaryota	Fungi	Nucletmycea	(Nucletmycea)					7	6	11	7	23	53	0	3	0	8	3	0	0	0	1	0	0	2	0	0	1	0	2	
+399	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida			uncultured Eimeriidae	7	4	4	2	4	7	5	13	1	0	0	0	3	12	4	22	4	8	9	8	8	2	6	
+591	Eukaryota	SAR	Heterokontophyta	Bacillariophyceae					7	6	1	0	2	15	8	3	10	1	22	2	11	13	1	14	18	112	21	21	28	13	973	
+22	Eukaryota	Amorphea	Amoebozoa	Discosea	Glycostylida 	Paramoebidae	Paramoeba		6	3	0	1	10	23	1	1	0	5	1	0	0	0	0	0	0	7	3	4	15	3	263	
+280	Eukaryota	SAR	Ciliophora	Phyllopharyngea					6	36	4	4	7	82	1	0	28	4	28	11	11	67	0	5	1	4	1	0	6	0	479	
+466	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria				6	3	4	2	3	20	10	5	5	6	162	1	0	1	0	0	0	0	0	0	0	2	0	
+477	Eukaryota	SAR	Radiozoa	Polycystinea		RAD C			6	0	5	1	5	2	15	5	6	6	47	11	0	0	0	1	0	0	0	0	0	0	0	
+99	Eukaryota	Archaeplastida	(Archaeplastida)	(Archaeplastida)					5	0	1	1	1	2	0	1	1	1	1	0	0	2	2	1	3	1	0	3	5	2	2	
+257	Eukaryota	SAR	Myzozoa	(Myzozoa)				Apicomplexa	4	40	27	47	75	27	9	6	51	23	3	0	0	0	1	5	0	1	0	1	0	0	0	
+272	Eukaryota	SAR	Ciliophora	(Ciliophora)					4	0	0	0	1	4	1	0	2	0	3	0	11	0	0	5	1	6	3	0	11	0	19	
+284	Eukaryota	SAR	Ciliophora	Litostomatea					4	0	2	1	2	5	0	0	0	0	0	0	0	0	0	55	0	1	1	2	13	0	34	
+295	Eukaryota	SAR	Ciliophora	Spirotrichea				uncultured alveolate	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+97	Eukaryota	Fungi	Zoopagomycota	(Zoopagomycota)					3	4	2	0	4	22	1	2	0	3	0	5	1	3	1	1	1	2	1	1	1	0	4	
+303	Eukaryota	SAR	Myzozoa	Dinophyceae	Amphidiniales	Amphidiniaceae	Amphidinium	Amphidinium	3	0	0	0	0	9	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+349	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group I		3	5	0	5	0	0	2	0	3	2	5	2	0	0	0	0	0	0	0	0	0	0	0	
+478	Eukaryota	SAR	Radiozoa	Polycystinea		RAD C		uncultured eukaryote	3	3	6	0	0	46	28	11	96	34	13	2	0	0	0	0	0	0	0	0	0	0	0	
+3	Eukaryota	Amorphea	Amoebozoa	(Amoebozoa)					2	0	0	0	0	1	0	0	1	1	3	0	0	2	0	0	0	16	1	0	0	2	5	
+94	Eukaryota	Fungi	Mucoromycota	(Mucoromycota)					2	2	1	0	4	9	4	5	4	2	0	6	0	0	0	6	2	2	3	1	3	0	3	
+131	Eukaryota	Archaeplastida	Chloroplastida	Prasinophytae	Pseudoscourfieldiales	Pycnococcaceae	Pycnococcus		2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+144	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae					2	0	0	0	0	1	0	0	2	0	0	2	0	0	0	1	0	0	1	0	1	0	7	
+202	Eukaryota	Discoba	Euglenozoa	Kinetoplastea	Neobodonida				2	40	3	2	2	28	4	0	21	5	6	1	0	4	1	171	1	50	12	13	0	128	39	
+218	Eukaryota	Excavata	Parabasalia	Trichomonadea	Trichomonadida	Trichomonadidae	Trichomonas		2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+226	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae					2	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+277	Eukaryota	SAR	Ciliophora	IN2411					2	0	0	0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+282	Eukaryota	SAR	Ciliophora	Prostomatea					2	2	0	1	2	0	9	1	0	2	1	0	0	0	0	2	0	0	0	0	0	0	1	
+302	Eukaryota	SAR	Myzozoa	Dinophyceae					2	1	2	4	0	7	7	3	9	0	4	1	0	9	0	0	0	0	0	0	0	7	0	
+316	Eukaryota	SAR	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum		2	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+325	Eukaryota	SAR	Myzozoa	Dinophyceae	Noctilucales			uncultured eukaryote	2	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+357	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II	uncultured eukaryote	2	2	1	0	1	18	4	0	3	3	295	4	0	0	0	0	0	6	2	0	0	1	0	
+375	Eukaryota	SAR	Cercozoa	(Cercozoa)					2	0	0	0	1	8	665	8	39	16	16	8	1	15	0	26	1	4	1	0	0	4	16	
+428	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeocystina	Aulacanthidae	Aulacantha	Aulacantha scolymantha	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+444	Eukaryota	SAR	Cercozoa	(Cercozoa)				metagenome	2	1	0	0	0	2	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+449	Eukaryota	SAR	Radiozoa	Retaria					2	0	0	0	2	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	
+471	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria			uncultured	2	4	1	8	2	0	6	0	2	2	0	1	0	0	0	0	0	0	0	0	0	0	0	
+481	Eukaryota	SAR	Stramenopiles	(Stramenopiles)					2	0	0	0	0	15	15	1	4	1	2	1	0	8	1	15	2	66	1	2	0	5	28	
+589	Eukaryota	SAR	Heterokontophyta	Bacillariophyceae					2	3	1	0	0	5	10	0	7	1	8	1	3	56	0	41	32	23	2	14	27	39	184	
+608	Eukaryota	SAR	Ochrophyta	Pelagophyceae					2	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	
+20	Eukaryota	Amorphea	Amoebozoa	Discosea	Glycostylida 	Paramoebidae	Korotnevella		1	1	1	2	1	1	0	1	2	0	0	0	0	0	0	1	0	9	2	0	30	1	48	
+21	Eukaryota	Amorphea	Amoebozoa	Discosea	Dactylopodida	Vexilliferidae 	Neoparamoeba		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	109	
+35	Eukaryota	Amorphea	Amoebozoa	Discosea	Centramoebida	Centramoebida incertae sedis	Balamuthia		1	1	2	0	0	3	1	1	2	0	1	3	1	2	0	0	4	1	1	0	1	0	2	
+41	Eukaryota	Amorphea	Amoebozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Amastigomonas	Amastigomonas bermudensis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+125	Eukaryota	Archaeplastida	Chloroplastida	Mamiellophyceae	Dolichomastigales	Crustomastigaceae	Crustomastix	Crustomastix sp. BH41_108	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Chlorellales	Oocystaceae	Schizochlamydella	Schizochlamydella capsulata	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	
+157	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Bangiaceae	Porphyra-Clymene	(Porphyra-Clymene)	1	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	
+160	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Porphyra-Pyropia	Pyropia	Pyropia nitida	1	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	2	0	0	1	0	0	0	
+178	Eukaryota	SAR	Cryptista	Goniomonadea	 Goniomonadida	Goniomonadidae	Goniomonas		1	1	1	5	0	6	5	3	3	2	0	2	1	1	1	2	6	4	0	0	12	4	0	
+197	Eukaryota	Discoba	Euglenozoa	Euglenophyceae	Euglenales 	Euglenaceae	Euglenea		1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	1	1	
+210	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida	Andaluciidae	Andalucia	Andalucia godoyi	1	1	0	0	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+258	Eukaryota	SAR	Myzozoa	Aconoidasida	Haemosporoidia	Plasmodiidae	Plasmodium		1	3	1	0	3	5	1	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+262	Eukaryota	SAR	Myzozoa	Conoidasida					1	3	3	9	30	7	0	5	21	10	0	0	0	0	0	1	0	3	0	0	0	0	0	
+278	Eukaryota	SAR	Ciliophora	Nassophorea					1	0	0	0	3	5	0	0	1	0	0	0	0	0	0	0	0	99	0	0	2	0	19	
+289	Eukaryota	SAR	Ciliophora	Spirotrichea					1	0	2	0	0	3	1	2	0	3	0	0	0	6	5	12	5	54	420	268	274	12	228	
+299	Eukaryota	SAR	Myzozoa	Dinophyceae					1	1	1	6	2	84	25	1	10	5	17	1	0	3	0	1	0	0	0	0	0	2	0	
+305	Eukaryota	SAR	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium		1	2	0	0	0	9	7	2	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+306	Eukaryota	SAR	Myzozoa	Dinophyceae	Gymnodiniales	Gyrodiniaceae	Gyrodinium		1	1	0	5	0	1	2	1	0	3	0	1	0	26	0	6	0	0	4	0	0	9	0	
+307	Eukaryota	SAR	Myzozoa	Dinophyceae	Gymnodiniales				1	2	2	0	1	1	3	0	7	1	7	0	0	0	0	0	0	0	0	0	0	0	0	
+318	Eukaryota	SAR	Myzozoa	Dinophyceae				uncultured	1	1	0	1	0	3	3	3	2	0	13294	9	6	0	1	4	0	0	0	0	0	0	0	
+321	Eukaryota	SAR	Myzozoa	Dinophyceae	Noctilucales	Noctilucaceae	Abedinium		1	0	0	0	0	6	4	0	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+322	Eukaryota	SAR	Myzozoa	Dinophyceae	Noctilucales	Noctilucaceae	Abedinium	uncultured eukaryote	1	1	2	1	1	3	3	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	
+336	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Perkinsidae	Perkinsus	Gadus morhua X-cell parasite	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+341	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Amoebophryaceae	Amoebophrya	uncultured eukaryote	1	1	0	1	0	0	1	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	
+362	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group III	uncultured eukaryote	1	4	0	2	1	1	1	5	10	2	0	0	0	0	0	0	0	1	0	0	0	0	0	
+367	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales			uncultured eukaryote	1	4	0	1	2	5	8	69	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	
+388	Eukaryota	SAR	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae		uncultured	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+427	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeoconchia	Conchariidae	Conchariidae	Conchariidae sp. Toyo303	1	0	1	0	0	0	5	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	
+450	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group I				1	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+468	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria		Rhizosphaera		1	0	2	0	0	1	6	2	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	
+499	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo		1	0	0	0	0	0	0	0	0	0	0	0	0	7	0	21	0	125	0	0	9	4	22	
+500	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo	Pseudobodo tremulans	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+524	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Oblongichytrium	Oblongichytrium porteri	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	
+545	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured eukaryote	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+588	Eukaryota	SAR	Ochrophyta	Chrysophyceae				uncultured marine picoeukaryote	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+593	Eukaryota	SAR	Heterokontophyta	Coscinodiscophyceae	Coscinodiscales				1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+602	Eukaryota	SAR	Ochrophyta	Dictyochophyceae	Pedinellales		Ciliophrys		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+603	Eukaryota	SAR	Ochrophyta	Eustigmatophyceae	Eustigmatales				1	1	0	0	0	11	2	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+617	Eukaryota	SAR	Oomycota	Oomycetes					1	0	9	5	0	0	98	4	1	0	0	0	22	0	0	0	0	4	0	0	0	4	2	
+4	Eukaryota	Amorphea	Amoebozoa	Archamoebae	Rhixomastigida	Rhixomastigidae	Rhizomastix		0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+5	Eukaryota	Amorphea	Amoebozoa	Archamoebae	Rhixomastigida	Rhixomastigidae	Clydonella	Clydonella sawyeri	0	0	7	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+6	Eukaryota	Amorphea	Amoebozoa	Archamoebae	Rhixomastigida	Rhixomastigidae	Vexillifera 	Vexillifera abyssalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	2	0	0	2	
+8	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	1	0	1	3	7	
+9	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	Acanthocystidae			0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	4	
+10	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	Acanthocystidae	Pterocystis		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+11	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	CV1-B1-93		metagenome	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+12	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	H1-10		uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+13	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	H26-1		uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	
+14	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	Heterophryidae	Oxnerella	Oxnerella micra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+15	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida	Heterophryidae	Pterocystis	Pterocystis tropica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+16	Eukaryota	Amorphea	Amoebozoa	Centrohelea	Centrohelida			uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	3	1	
+17	Eukaryota	Amorphea	Amoebozoa	Discosea					0	0	0	0	0	2	1	0	0	0	0	0	0	0	2	0	2	2	0	0	0	0	5	
+18	Eukaryota	Amorphea	Amoebozoa	Discosea					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+19	Eukaryota	Amorphea	Amoebozoa	Discosea	Dactylopodida				0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	1	0	0	1	0	44	
+23	Eukaryota	Amorphea	Amoebozoa	Discosea	Himatismenida	Himatismenida incertae sedis 	Parvamoeba		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	
+24	Eukaryota	Amorphea	Amoebozoa	Discosea	Dactylopodida			uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	
+25	Eukaryota	Amorphea	Amoebozoa	Discosea	Stygamoebida	Stygamoebidae	Stygamoeba		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+26	Eukaryota	Amorphea	Amoebozoa	Discosea	Stygamoebida	Stygamoebidae	Vermistella		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	1	0	2	0	
+27	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida				0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	0	1	0	2	22	
+28	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida	Vannellidae	BIO10-D10		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+29	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida	Vannellidae	Platyamoeba		0	0	0	0	0	65	0	1	0	0	0	1	1	0	0	3	0	86	1	1	0	6	144	
+30	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida	Vannellidae	Vannella		0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	4	0	8	0	1	2	20	15	
+31	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida	Vannellidae	Vannella	Vannella sp. BAK1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+32	Eukaryota	Amorphea	Amoebozoa	Discosea	Vannellida	Vannellidae	Vannella	Vannella sp. ELH5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	36	
+33	Eukaryota	Amorphea	Amoebozoa	Discosea					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+36	Eukaryota	Amorphea	Amoebozoa	Discosea	Dermamoebida	Dermamoebida incertae sedis	Mayorella	Mayorella sp. JJP-2003	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+37	Eukaryota	Amorphea	Amoebozoa	Discosea				uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+38	Eukaryota	Amorphea	Amoebozoa	(Amoebozoa)	Fractovitelliida	Fractovitelliida incertae sedis 	Soliformovum	Soliformovum irregulare	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+39	Eukaryota	Amorphea	Amoebozoa	Gracilipodida		Gracilipodida incertae sedis	Filamoeba	Filamoeba nolandi	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+40	Eukaryota	Amorphea	Amoebozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Amastigomonas		0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+42	Eukaryota	Amorphea	Amoebozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Multimonas		0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	
+43	Eukaryota	Amorphea	Amoebozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Multimonas	Multimonas koreensis	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+44	Eukaryota	Amorphea	Amoebozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Planomonas	Planomonas micra	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+45	Eukaryota	Amorphea	Amoebozoa	Breviatea			NAMAKO-2	uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+46	Eukaryota	Amorphea	Amoebozoa	Dictyosteliomycetes	Dictyosteliales	Dictyamoeba		uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+47	Eukaryota	Amorphea	Amoebozoa	Hilomonadea	Rigifilida	Rigifilidae	Rigifila	Rigifila ramosa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+48	Eukaryota	Amorphea	Amoebozoa	Discosea	Dermamoebida	Dermamoebidae	Mycamoeba		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+50	Eukaryota	Amorphea	Amoebozoa	Myxogastria					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+51	Eukaryota	Amorphea	Amoebozoa	Protosporangiida		Protosporangiidae	Protosporangium	uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	10	0	0	2	1	1	
+52	Eukaryota	Amorphea	Amoebozoa	Variosea	Protosteliida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+53	Eukaryota	Amorphea	Amoebozoa	Variosea	Protosteliida			metagenome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	2	0	3	
+54	Eukaryota	Amorphea	Amoebozoa	Variosea	Protosteliida	Protosteliidae	Protostelium	Protostelium mycophagum	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	
+55	Eukaryota	Amorphea	Amoebozoa	Variosea	Protosteliida	Protosteliaceae	Schoutedamoeba	Schoutedamoeba minuta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	
+56	Eukaryota	Amorphea	Bigyra	Labyrinthulomycetes	Amphifilida	Sorodiplophryidae	Sorodiplophrys		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	1	0	0	5	3	
+57	Eukaryota	Amorphea	Amoebozoa	Amoebozoa incertae sedis	Schizoplasmodiida				0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+58	Eukaryota	Amorphea	Amoebozoa	Amoebozoa incertae sedis	Schizoplasmodiida	Phalansteriidae	Phalansterium		0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	
+59	Eukaryota	Amorphea	Amoebozoa	Amoebozoa incertae sedis	Schizoplasmodiida	Phalansteriidae	Phalansterium	uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+60	Eukaryota	Amorphea	Amoebozoa	Tubulinea					0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	
+61	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Arcellinida	Echinamoebida	Echinamoeba		0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	10	0	0	0	0	0	
+62	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Arcellinida	Echinamoebida	Vermamoeba		0	0	1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+63	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Euamoebida	Hartmannellidae	BOLA868		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+64	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Euamoebida	Hartmannellidae	BOLA868	uncultured Hartmannellidae	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+65	Eukaryota	Amorphea	Heterokontophyta	Bacillariophyceae	Rhopalodiales	Rhopalodiaceae	Pyxidicula	Pyxidicula operculata	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+66	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	93	0	0	0	0	0	
+67	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Flabellula		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	
+68	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Flabellula	Flabellula citata	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+69	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Flabellula	Flabellula sp. AK-2016a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	
+70	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Flabellula	metagenome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+71	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Flabellula	Paraflabellula sp. RT1TT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+72	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 		Flabellulidae sp. SEDF/I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+73	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	NETC3-I		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+74	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	NETC3-I	Flabellulidae sp. STAR2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+75	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Flabellulidae 	Paraflabellula	Paraflabellula reniformis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	
+76	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida	Rhizamoebidae	Rhizamoeba		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+77	Eukaryota	Amorphea	Amoebozoa	Tubulinea	Leptomyxida			uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	
+78	Eukaryota	Amorphea	Amoebozoa	Tubulinea				metagenome	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+79	Eukaryota	Amorphea	Amoebozoa	uncultured				marine metagenome	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+85	Eukaryota	Fungi	Aphelidiomycota	Aphelidiomycetes	Aphelidiales	Aphelidea	Paraphelidium		0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+86	Eukaryota	Fungi	Aphelidiomycota	Aphelidiomycetes	Aphelidiales	Aphelidea	Aphelidea	uncultured	0	1	0	0	0	2	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+88	Eukaryota	Fungi	Blastocladiomycota	(Blastocladiomycota)					0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+93	Eukaryota	Fungi	Rozellomycota	(Rozellomycota)					0	0	0	0	0	3	6	0	1	2	0	0	346	2	0	1	0	0	0	0	3	5	0	
+95	Eukaryota	Fungi	Neocallimastigomycota	(Neocallimastigomycota)					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+96	Eukaryota	Fungi	(Fungi)	(Fungi)				uncultured	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+102	Eukaryota	Archaeplastida	Chloroplastida	Klebsormidiophyceae	Klebsormidiales	Klebsormidiaceae	Klebsormidium		0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+103	Eukaryota	Archaeplastida	Chloroplastida	Streptophyta					0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+104	Eukaryota	Archaeplastida	Chloroplastida	Charophyceae					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	
+106	Eukaryota	Archaeplastida	Chloroplastida	Zygnematophyceae	Zygnematales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+107	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta					0	1	2	0	1	4	2	1	0	1	0	2	0	0	0	2	3	8	0	0	0	0	1	
+108	Eukaryota	Archaeplastida	Chloroplastida	Chlorodendrophyceae	Chlorodendrales	Chlorodendraceae	Tetraselmis	Tetraselmis	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	2	1	0	0	1	0	
+109	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae					0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1	1	1	0	2	
+110	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Chaetophorales	Chaetophoraceae	Chaetophora		0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+112	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Incertae Sedis	Characiochloridaceae	Chlamydopodium		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+113	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Sphaeropleales				0	1	0	0	0	0	0	1	2	0	0	4	1	1	0	0	0	0	0	4	1	2	1	
+115	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Sphaeropleales	Mychonastaceae	Mychonastes		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+116	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Scenedesmus		0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+117	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyceae	uncultured Chlorophyta				0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+118	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade IX				0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+119	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade IX			uncultured prasinophyte	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+120	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade VII	Subclade A			0	2	0	0	0	4	0	0	7	0	1	2	0	0	0	0	0	0	0	0	0	0	0	
+121	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade VII	Subclade A		uncultured Chlorophyta	0	1	0	1	0	3	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+122	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade VII	Subclade A		uncultured eukaryote	0	0	0	0	0	6	3	1	5	1	9	0	0	0	0	0	0	0	0	0	0	0	0	
+123	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade VII	Subclade B			0	0	0	0	0	0	0	0	2	1	1	2	0	0	0	0	0	0	0	0	0	0	0	
+124	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Clade VII	Subclade B		uncultured eukaryote	0	0	0	0	0	3	3	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	
+127	Eukaryota	Archaeplastida	Chloroplastida	Nephroselmidophyceae	Nephroselmidales	Nephroselmidaceae	Nephroselmis		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+128	Eukaryota	Archaeplastida	Chloroplastida	Prasinophytae					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+129	Eukaryota	Archaeplastida	Chloroplastida	Prasinophytae	Prasinococcales	Prasinococcaceae	Prasinococcus		0	0	0	0	0	1	4	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	
+130	Eukaryota	Archaeplastida	Chloroplastida	Prasinophytae	Pseudoscourfieldiales	Prasinodermataceae	Prasinoderma		0	0	0	0	0	1	0	0	0	0	2	2	0	0	0	0	0	1	0	0	0	0	2	
+133	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Chlorellales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+134	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chlorella		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	
+135	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chloroidium		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+136	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Chlorellales	Chlorellaceae	Prototheca		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+137	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Trebouxiophyceae Incertae Sedis				0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+138	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Trebouxiophyceae Incertae Sedis	Coccomyxaceae	Coccomyxa		0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+139	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Trebouxiophyceae Incertae Sedis	Trebouxiophyceae Incertae Sedis	Lemmermannia		0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	
+141	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae	Trebouxiophyceae Incertae Sedis	Trebouxiophyceae Incertae Sedis	Apatococcus	uncultured Apatococcus	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	
+142	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta				uncultured Chlorophyta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+143	Eukaryota	Archaeplastida	Chloroplastida	Trebouxiophyceae				uncultured eukaryote	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+145	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Bryopsidales	Bryopsidaceae	Bryopsis		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	7	0	2	
+146	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Cladophorales	Siphonocladaceae	Ernodesmis		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+147	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Dasycladales				0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+148	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Dasycladales	Polyphysaceae	Acetabularia		0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+149	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Bryopsidales	Ostreobiaceae	Ostreobium	Ostreobium sp. OS1B	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+150	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Ulvales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	
+151	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Ulvales	Cloniophoraceae	Cloniophora		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	
+152	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Ulvales	Ulvaceae	Ruthnielsenia		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+153	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae	Ulvales	Ulvellaceae	Ulvella		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	
+154	Eukaryota	Archaeplastida	Chloroplastida	Ulvophyceae				Ulvophyceae sp. MBIC10461	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+155	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales				0	0	0	0	0	1	0	0	0	0	3	0	0	0	1	1	0	0	1	0	0	0	0	
+156	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Bangiaceae	Bangia		0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+159	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Porphyra-Pyropia	Porphyra	Porphyra tenuipedalis	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+161	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Porphyra-Pyropia	Pyropia	Pyropia pseudolinearis	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+162	Eukaryota	Archaeplastida	Rhodophyceae	Bangiophyceae	Bangiales	Porphyra-Pyropia	Wildemania	Wildemania amplissima	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+163	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae					0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+164	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Corallinales	Hapalidiaceae	Hapalidiaceae sp. ASB467	Hapalidiaceae sp. ASB467	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+165	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Hildenbrandiales	Hildenbrandiophycidae	Hildenbrandia		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+166	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Batrachospermales	Batrachospermaceae	Chantransia	Chantransia pygmaea	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+167	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Thoreales	Thoreaceae	Thorea		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+168	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Ceramiales	Rhodomelaceae	Murrayella	Murrayella periclados	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+169	Eukaryota	Archaeplastida	Rhodophyceae	Florideophycidae	Nemastomatales	Schizymeniaceae	Titanophora	Titanophora weberae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+170	Eukaryota	Archaeplastida	Rhodophyceae	Rhodellophyceae	Dixoniellales	Dixoniellaceae	Dixoniella	Dixoniella grisea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	
+171	Eukaryota	Archaeplastida	Rhodophyceae	Stylonematales					0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+172	Eukaryota	SAR	Cryptista	Cryptophyceae	Cryptomonadales				0	0	0	0	3	0	1	0	0	0	1	0	0	7	0	1	0	0	0	0	1	0	0	
+173	Eukaryota	SAR	Cryptista	Cryptophyceae	Pyrenomonadales	 Chroomonadaceae	Chroomonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+174	Eukaryota	SAR	Cryptista	Platysulcea	Platysulcida	Platysulcidae	Platysulcus	Platysulcus tardus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+175	Eukaryota	SAR	Cryptista	Cryptophyceae	Rhodomonas				0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	
+176	Eukaryota	SAR	Cryptista	Cryptophyceae	Pyrenomonadales	Pyrenomonadaceae	Rhinomonas	Rhinomonas pauca	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	
+177	Eukaryota	SAR	Cryptista	Cryptophyceae	Pyrenomonadales	Pyrenomonadaceae	Rhodomonas	Rhodomonas marina	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+179	Eukaryota	SAR	Cryptista	Goniomonadea	 Goniomonadida	Goniomonadidae	Goniomonas	Goniomonas aff. amphinema	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+180	Eukaryota	SAR	Cryptista	Goniomonadea	 Goniomonadida	Goniomonadidae	Goniomonas	Goniomonas sp. ATCC 50108	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	
+181	Eukaryota	SAR	Cryptista	Goniomonadea	 Goniomonadida	Goniomonadidae	Goniomonas	Goniomonas sp. SH-3	0	0	0	0	0	1	1	0	0	0	0	0	0	2	0	0	0	0	1	0	1	0	4	
+182	Eukaryota	SAR	Cryptista	Leucocryptea	 Kathablepharidida	Kathablepharidae	Hatena	Hatena arenicola	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+183	Eukaryota	SAR	Cryptista	Leucocryptea	 Kathablepharidida	Kathablepharidae	Leucocryptos	uncultured eukaryote	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+184	Eukaryota	SAR	Cryptista	Leucocryptea	 Kathablepharidida	Kathablepharidae		uncultured Katablepharidaceae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+185	Eukaryota	Discoba	(Discoba)	(Discoba)					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+186	Eukaryota	Discoba	Euglenozoa	(Euglenozoa)					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+187	Eukaryota	Discoba	Euglenozoa	Diplonemea					0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	11	0	0	0	3	1	0	7	
+188	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	Diplonema		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	6	0	0	11	
+189	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	Diplonema	Diplonema sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	
+190	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	Diplonema	Diplonemida sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+191	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	Rhynchopus		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	
+192	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	SCM38C39 marine group		0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	11	0	1	1	0	0	2	0	
+193	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	SCM38C39 marine group	Diplonema sp. ATCC 50224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	
+194	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	SCM38C39 marine group	uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+195	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Diplonemidae 	SCM38C39 marine group	uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+196	Eukaryota	Discoba	Euglenozoa	Euglenoidea	Euglenida				0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+198	Eukaryota	Discoba	Euglenozoa	Stavomonadea 	Petalomonadida	Scytomonadidae	Petalomonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	22	7	0	0	0	5	
+199	Eukaryota	Discoba	Euglenozoa	Diplonemea	Diplonemida	Hemistasiidae		Hemistasiidae sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	
+200	Eukaryota	Discoba	Euglenozoa	Kinetoplastea					0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	5	0	5	0	0	0	9	5	
+201	Eukaryota	Discoba	Euglenozoa	Kinetoplastea	Eubodonida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	
+203	Eukaryota	Discoba	Euglenozoa	Kinetoplastea	Trypanosomatida				0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	
+204	Eukaryota	Discoba	Euglenozoa	Kinetoplastea	Prokinetoplastida 		Ichthyobodo		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	
+205	Eukaryota	Excavata	Percolozoa	Heterolobosea	Acrasiales	Acrasiaceae	Allovahlkampfia		0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	
+206	Eukaryota	Excavata	Percolozoa	Heterolobosea	Schizopyrenida	Vahlkampfiidae	Neovahlkampfia		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+207	Eukaryota	Excavata	Percolozoa	Heterolobosea	Schizopyrenida	Vahlkampfiidae	Neovahlkampfia		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+208	Eukaryota	Excavata	Percolozoa	Heterolobosea	Schizopyrenida	Vahlkampfiidae	Neovahlkampfia	Neovahlkampfia damariscottae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+209	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida			Jakobida sp. AY-2018	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+211	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida	Stygiellidae	Stygiella	Stygiella agilis	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	
+212	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida			uncultured Jakobida	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+213	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida			uncultured marine eukaryote	0	0	1	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+214	Eukaryota	Excavata	Loukozoa 	Jakobea 	Jakobida		RM1-SGM49	uncultured eukaryote	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+215	Eukaryota	Excavata	(Excavata)	(Excavata)					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	
+216	Eukaryota	Excavata	Metamonada	Trepomonadea	Diplomonadida	Hexamitidae	Giardia		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+217	Eukaryota	Excavata	Parabasalia	Spirotrichonymphea	Spirotrichonymphida	Holomastigotoididae	Holomastigotoides	Holomastigotoides sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	1	
+219	Eukaryota	Excavata	Metamonada	Preaxostyla	Oxymonadida	Saccinobaculidae	Saccinobaculus	Saccinobaculus sp. E10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+220	Eukaryota	Excavata	Metamonada	Preaxostyla	Oxymonadida				0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	
+221	Eukaryota	Excavata	Metamonada	Preaxostyla		Paratrimastigidae	Paratrimastix		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+222	Eukaryota	Excavata	Metamonada	Preaxostyla		Paratrimastigidae	Paratrimastix	Paratrimastix pyriformis ATCC50598	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+223	Eukaryota	Excavata	Metamonada	Anaeromonadea	Trimastigida		Trimastix marina	Trimastix marina	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+224	Eukaryota	Hacrobia	(Hacrobia)	(Hacrobia)					0	1	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+225	Eukaryota	Hacrobia	Haptophyta	Pavlovophyceae					0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+227	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Coccolithales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	6	
+228	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Coccolithales	Pleurochrysidae	Pleurochrysis		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	
+229	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Coccolithales	Reticulosphaeraceae	Reticulosphaera	Reticulosphaera socialis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	
+230	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Isochrysidales				0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+231	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Isochrysidales	 Noelaerhabdaceae	Emiliania	Emiliania huxleyi CCMP1516	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	
+232	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Phaeocystis			Haptophyta environmental samples	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+233	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Prymnesiales				0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+234	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Prymnesiales	Chrysochromulina	Chrysochromulina		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+235	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Prymnesiales	OLI16029			0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+236	Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Prymnesiales	Prymnesiaceae	Prymnesium		0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+237	Eukaryota	Hacrobia	Haptophyta	(Haptophyta)				Haptophyta environmental samples	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+238	Eukaryota	Incertae Sedis	(Incertae Sedis)	(Incertae Sedis)					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	5	0	0	0	0	1	
+239	Eukaryota	Incertae Sedis	(Incertae Sedis)	(Incertae Sedis)	Ancyromonadida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	
+240	Eukaryota	Incertae Sedis	(Incertae Sedis)	(Incertae Sedis)	Ancyromonadida	Ancyromonadidae	Nutomonas	Nutomonas longa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	
+241	Eukaryota	Incertae Sedis	Sulcozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Amastigomonas		0	0	0	0	0	1	0	0	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	
+242	Eukaryota	Incertae Sedis	Sulcozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Amastigomonas	uncultured Apusomonadidae	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	1	10	0	0	0	4	1	
+243	Eukaryota	Incertae Sedis	Sulcozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Chelonemonas		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	
+244	Eukaryota	Incertae Sedis	Sulcozoa	Apusomonadea	Apusomonadida	Apusomonadidae	Chelonemonas	Chelonemonas geobuk	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	
+245	Eukaryota	CRuMs	Mantamonas	Glissodiscea	Mantamonadida	Mantamonadidae	Mantamonas	Mantamonas plastica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	
+246	Eukaryota	CRuMs	Mantamonas	Glissodiscea	Mantamonadida	Mantamonadidae	Mantamonas	Mantamonas sp. Dar es Salaam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	
+247	Eukaryota	Incertae Sedis	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema		0	1	1	0	0	0	0	0	0	0	0	0	0	7	0	1	0	0	0	0	0	1	0	
+248	Eukaryota	Incertae Sedis	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+249	Eukaryota	Incertae Sedis	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema	uncultured marine eukaryote	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+250	Eukaryota	NAMAKO-1	(NAMAKO-1)	(NAMAKO-1)				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+251	Eukaryota	Plantae	Picozoa	(Picozoa)					0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+252	Eukaryota	Plantae	Picozoa	Picomonadea	Picomonadida				0	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+253	Eukaryota	SAR	Cryptophyta	Cryptophyceae	Cryptophyceae incertae sedis		Hemiarma	Hemiarma marina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	0	2	3	0	2	
+256	Eukaryota	SAR	Myzozoa	(Myzozoa)				Apicomplexa sp. X STN-2017	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+259	Eukaryota	SAR	Myzozoa	Aconoidasida	Piroplasmorida				0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+260	Eukaryota	SAR	Myzozoa	Aconoidasida	Piroplasmorida	 Haemohormidiidae	Cardiosporidium		0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+261	Eukaryota	SAR	Myzozoa	Aconoidasida	Piroplasmorida	 Theileriidae	Theileria		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	
+263	Eukaryota	SAR	Myzozoa	Conoidasida	Eucoccidiorida				0	2	2	5	10	8	1	6	28	3	0	0	0	0	0	0	1	10	0	0	0	0	0	
+264	Eukaryota	SAR	Myzozoa	Conoidasida	Eucoccidiorida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	1	6	0	0	16	0	7	
+266	Eukaryota	SAR	Myzozoa	Conoidasida	Eucoccidiorida	Cryptosporidiidae	Cryptosporidium		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	1	
+267	Eukaryota	SAR	Myzozoa	Conoidasida	Archigregarinorida				0	0	5	2	12	2	1	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+268	Eukaryota	SAR	Myzozoa	Conoidasida	Eugregarinorida				0	3	0	0	1	1	1	0	0	0	5	2	1	0	0	0	0	1	0	0	0	0	0	
+269	Eukaryota	SAR	Myzozoa	Conoidasida	Neogregarinorida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	1	
+270	Eukaryota	SAR	Myzozoa	Conoidasida				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	
+271	Eukaryota	SAR	Ciliophora	(Ciliophora)					0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	11	0	1	0	0	14	
+273	Eukaryota	SAR	Ciliophora	Armophorea	Armophorida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+274	Eukaryota	SAR	Ciliophora	Armophorea	Clevelandellida				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	
+275	Eukaryota	SAR	Ciliophora	(Ciliophora)					0	0	0	0	2	3	2	2	0	0	0	0	0	0	0	0	0	20	0	0	1	0	36	
+276	Eukaryota	SAR	Ciliophora	Colpodea					0	0	2	0	6	14	1	3	0	0	6	1	0	0	1	0	1	0	0	0	0	0	5	
+281	Eukaryota	SAR	Ciliophora	Plagiopylea					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	1	0	0	0	0	0	
+283	Eukaryota	SAR	Ciliophora	Litostomatea					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	
+285	Eukaryota	SAR	Ciliophora	Litostomatea					0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+288	Eukaryota	SAR	Ciliophora	Spirotrichea					0	8	0	1	0	0	0	0	0	0	0	0	1	0	3	0	5	62	8	2	55	0	242	
+292	Eukaryota	SAR	Ciliophora	Spirotrichea	Sporadotrichida	Oxytrichidae			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+293	Eukaryota	SAR	Ciliophora	Spirotrichea			Protocruzia		0	3	0	0	0	0	0	0	0	0	0	0	0	29	0	350	0	7	0	0	0	53	1	
+294	Eukaryota	SAR	Ciliophora	Spirotrichea					0	0	0	0	0	0	0	0	0	0	0	0	0	16	223	9	59	266	87	47	877	19	694	
+296	Eukaryota	SAR	Ciliophora	Heterotrichea	Heterotrichida	Folliculinidae	Eufolliculina		0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+297	Eukaryota	SAR	Ciliophora	Heterotrichea				metagenome	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+298	Eukaryota	SAR	Ciliophora	Heterotrichea	Heterotrichida	Stentoridae	Stentor		0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+301	Eukaryota	SAR	Myzozoa	Dinophyceae	Dinophysiales	Dinophysaceae	Sinophysis		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+304	Eukaryota	SAR	Myzozoa	Dinophyceae	Amphidiniales	Amphidiniaceae	Amphidinium	Amphidinium semilunatum	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+308	Eukaryota	SAR	Myzozoa	Dinophyceae	Gymnodiniales	Kareniaceae			0	0	0	2	0	0	0	0	0	0	1	0	0	6	0	0	0	0	0	0	0	2	0	
+310	Eukaryota	SAR	Myzozoa	Dinophyceae	Tovelliales	Tovelliaceae			0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+311	Eukaryota	SAR	Myzozoa	Dinophyceae				uncultured eukaryote	0	0	0	0	0	24	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+312	Eukaryota	SAR	Myzozoa	Dinophyceae					0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+313	Eukaryota	SAR	Myzozoa	Dinophyceae	Gonyaulacales				0	0	0	0	1	3	3	0	4	1	1	0	0	0	0	0	0	3	0	0	0	0	0	
+315	Eukaryota	SAR	Myzozoa	Dinophyceae	Thoracosphaerales	Thoracosphaeraceae			0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+317	Eukaryota	SAR	Myzozoa	Dinophyceae				uncultured	0	0	0	0	0	0	0	0	1	1	57741	33	5	0	0	9	0	0	0	0	0	0	0	
+319	Eukaryota	SAR	Myzozoa	Dinophyceae				uncultured	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+320	Eukaryota	SAR	Myzozoa	Dinophyceae	Blastodiniales 	Blastodinidae	Blastodinium		0	0	0	1	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+323	Eukaryota	SAR	Myzozoa	Dinophyceae	Noctilucales	Noctilucaceae	Abedinium	uncultured marine eukaryote	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+324	Eukaryota	SAR	Myzozoa	Dinophyceae	Noctilucales	Kofoidiniaceae	Kofoidinium	Kofoidinium cf. pavillardii	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+326	Eukaryota	SAR	Myzozoa	(Myzozoa)					0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+327	Eukaryota	SAR	Myzozoa	Colpodellophyceae	Colpodellales	Colpodellaceae			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+328	Eukaryota	SAR	Myzozoa	Colpodellophyceae	Colpodellales	Colpodellaceae	Colpodella		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+329	Eukaryota	SAR	Myzozoa	Colpodellophyceae	Colpodellales	Colpodellaceae	Colpodella	uncultured Colpodellidae	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330	Eukaryota	SAR	Myzozoa	Colpodellophyceae	Colpodellales	Colpodellaceae	Colpodella	uncultured Halosarcinochlamys	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	
+331	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Perkinsidae	A31		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+332	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Perkinsidae	A31	metagenome	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+333	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Perkinsidae	A31	uncultured eukaryote	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+334	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Parviluciferaceae	Parvilucifera		0	0	0	1	0	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+335	Eukaryota	SAR	Myzozoa	Perkinsea	Perkinsida	Parviluciferaceae	Parvilucifera	uncultured freshwater eukaryote	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+338	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Amoebophryaceae	Amoebophrya		0	0	7	1	0	0	2	1	0	1	14	6	0	0	0	0	0	1	0	0	0	0	0	
+339	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Amoebophryaceae	Amoebophrya	Amoebophrya sp. ex Prorocentrum micans	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+340	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Amoebophryaceae	Amoebophrya	uncultured dinoflagellate	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+342	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Amoebophryaceae	Amoebophrya	uncultured marine alveolate	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+343	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Duboscquella		0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+344	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Duboscquella	uncultured dinoflagellate	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+345	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Duboscquella	uncultured marine eukaryote	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+346	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Syndiniaceae	Hematodinium		0	0	0	0	1	0	1	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+347	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Syndiniaceae	Hematodinium	Hematodinium sp. SG-2012	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+348	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales	Syndiniaceae	Hematodinium	uncultured eukaryote	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group I	eukaryote clone OLI11029	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+351	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group I	uncultured dinoflagellate	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+352	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group I	uncultured Duboscquella	0	0	0	0	0	0	126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+354	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II		0	4	0	0	0	5	3	0	2	1	9	2	0	0	0	0	0	2	0	0	0	0	0	
+355	Eukaryota	SAR	Myzozoa	Dinophyceae	Peridiniales	Peridiniaceae	Pentapharsodinium	Pentapharsodinium tyrrhenicum	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+356	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II	uncultured alveolate	0	0	0	0	0	2	1	1	1	0	3	1	0	0	0	0	0	0	0	0	0	0	0	
+358	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II	uncultured marine alveolate	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+359	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II	uncultured marine eukaryote	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+360	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group II	uncultured Syndiniales	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+361	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group III		0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+363	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group V	uncultured dinoflagellate	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+364	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales		Syndiniales Group V	uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+365	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales			uncultured eukaryote	0	0	0	0	0	0	145	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	
+366	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales			uncultured marine alveolate	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+368	Eukaryota	SAR	Myzozoa	Dinophyceae	Syndiniales			uncultured marine eukaryote	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+369	Eukaryota	SAR	Myzozoa	(Myzozoa)					0	0	0	0	0	1	0	3	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	
+370	Eukaryota	SAR	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	Prorocentrum triestinum	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	5	
+371	Eukaryota	SAR	Myzozoa	(Myzozoa)				uncultured alveolate	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+372	Eukaryota	SAR	Myzozoa	(Myzozoa)				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	
+373	Eukaryota	SAR	Myzozoa	(Myzozoa)				uncultured freshwater eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	
+374	Eukaryota	SAR	Rhizaria	(Rhizaria)					0	0	0	0	0	0	2	1	1	1	10	0	0	0	0	0	0	0	0	0	0	0	1	
+376	Eukaryota	SAR	Cercozoa	Ascetosporea					0	3	3	2	0	2	0	1	2	0	61	1	0	0	0	0	0	0	0	0	0	0	0	
+377	Eukaryota	SAR	Cercozoa	Ascetosporea	Haplosporida	Haplosporidiidae			0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+378	Eukaryota	SAR	Cercozoa	Ascetosporea	Haplosporida	Haplosporidiidae	Haplosporidium		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+379	Eukaryota	SAR	Cercozoa	Ascetosporea	Haplosporida	Haplosporidiidae	Minchinia		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+380	Eukaryota	SAR	Cercozoa	Ascetosporea	Haplosporida		Urosporidium		0	0	0	0	0	0	0	0	0	0	13	6	0	0	0	0	0	0	0	0	0	0	0	
+381	Eukaryota	SAR	Cercozoa	Ascetosporea				Haplosporidian parasite of Pandalus platyceros	0	0	1	0	0	1	0	1	0	0	29	3	0	0	0	0	0	0	0	0	0	0	0	
+382	Eukaryota	SAR	Cercozoa	Ascetosporea	Ascetosporea	Paradiniidae	Paradinium		0	0	0	0	0	1	0	1	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0	
+383	Eukaryota	SAR	Cercozoa	Ascetosporea				uncultured Cercozoa	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+384	Eukaryota	SAR	Cercozoa	Ascetosporea				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	
+385	Eukaryota	SAR	Cercozoa	Imbricatea	Variglissida	Clautriaviidae	Clautriavia	Clautriavia biflagellata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+386	Eukaryota	SAR	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Cercomonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+387	Eukaryota	SAR	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Cercomonas	Cercomonas directa	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+389	Eukaryota	SAR	Cercozoa	Chlorarachniophyceae					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	
+390	Eukaryota	SAR	Cercozoa	Chlorarachniophyceae				Chlorarachniophyceae sp. BC52	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+391	Eukaryota	SAR	Cercozoa	Granofilosea	Desmothoracida	Clathrulinidae	Hedriocystis		0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	12	0	1	0	1	1	0	1	
+392	Eukaryota	SAR	Cercozoa	Granofilosea	Desmothoracida	Clathrulinidae	Hedriocystis	uncultured eukaryote	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	9	0	0	0	0	0	0	0	
+393	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida	(Glissomonadida)	(Glissomonadida)		0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+394	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allantion	Allantion sp. CCAP 1906/1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+395	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allantion	uncultured Thaumatomonadida	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+396	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida	Bodomorphidae	Bodomorpha	Bodomorpha minima	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+397	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida	Cercomonadidae 	Heteromita		0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+398	Eukaryota	SAR	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae 	Heteromita	Cercozoa sp. A10p145at5	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	1	0	0	0	3	
+400	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida			uncultured Thaumatomonadida	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	
+401	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida			uncultured	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+402	Eukaryota	SAR	Cercozoa	Sarcomonadea	Glissomonadida			uncultured	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+403	Eukaryota	SAR	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Massisteria		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	8	0	0	1	4	11	
+404	Eukaryota	SAR	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Massisteria	marine metagenome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	13	10	4	1	7	33	
+405	Eukaryota	SAR	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Massisteria	uncultured eukaryote	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	2	
+406	Eukaryota	SAR	Cercozoa	Gromiidea	Gromiida	Gromiidae	Gromia		0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	
+407	Eukaryota	SAR	Cercozoa	Gromiidea	Gromiida	Gromiidae	Gromia	Gromia melinus	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+408	Eukaryota	SAR	Cercozoa	Imbricatea					0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	
+409	Eukaryota	SAR	Cercozoa	Imbricatea	Marimonadida		Pseudopirsonia		0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410	Eukaryota	SAR	Cercozoa	Imbricatea			Nudifila	metagenome	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+411	Eukaryota	SAR	Cercozoa	Imbricatea			Nudifila	uncultured marine picoeukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+412	Eukaryota	SAR	Cercozoa	Imbricatea	Euglyphida				0	0	2	0	0	0	1	1	1	0	8	3	56	0	0	1	0	0	0	0	1	0	3	
+413	Eukaryota	SAR	Cercozoa	Imbricatea	Thaumatomonadida				0	0	0	0	0	1	0	0	0	0	0	1	0	6	1	4	1	0	0	0	0	2	3	
+414	Eukaryota	SAR	Cercozoa	(Cercozoa)		Incertae Sedis	Gymnophrys	Athalamea environmental sample	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+415	Eukaryota	SAR	Cercozoa	(Cercozoa)		Incertae Sedis	Gymnophrys	uncultured freshwater cercozoan	0	0	0	0	0	3	0	0	0	0	0	12	0	0	0	3	1	0	1	0	2	0	0	
+416	Eukaryota	SAR	Cercozoa	Imbricatea		Metromonadea	Metromonas	Metromonas simplex	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	
+417	Eukaryota	SAR	Cercozoa	(Cercozoa)		Incertae Sedis	Reticulamoeba		0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+418	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade 10		uncultured Cercozoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+419	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade 2			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+420	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade 2		uncultured eukaryote	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	1	1	0	0	0	0	
+421	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade 2		uncultured marine picoeukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+422	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade Gran-3			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	
+423	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade Gran-3		uncultured Cercozoa	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	
+424	Eukaryota	SAR	Cercozoa	(Cercozoa)		Novel Clade Gran-5			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+425	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeocalpida	Porospathidae	Porospathis	Porospathis holostoma	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+426	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeoconchia	Phaeoconchia			0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+429	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeocystina	Aulacanthidae	Auloceros	Auloceros arborescens	0	0	0	0	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+430	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeogymnocellida	Phaeodinidae	Phaeodina	Phaeodina sp. Go1	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+431	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeogromida	Challengeridae	Challengeron	Challengeron diodon	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+432	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeogromida	Medusettidae	Medusetta	Medusetta parthenopaea	0	0	0	0	0	1	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+433	Eukaryota	SAR	Cercozoa	Phytomyxea	(Phytomyxea)	(Phytomyxea)			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+434	Eukaryota	SAR	Cercozoa	Phytomyxea	Plasmodiophora	Plasmodiophoridae	Plasmodiophora	Plasmodiophora brassicae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	1	
+435	Eukaryota	SAR	Cercozoa	Thecofilosea					0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	1	0	0	
+436	Eukaryota	SAR	Cercozoa	Thecofilosea	Cryomonadida	Protaspidae			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+437	Eukaryota	SAR	Cercozoa	Thecofilosea	Phaeosphaerida	Aulosphaeridae	Aulosphaera		0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+438	Eukaryota	SAR	Cercozoa	Thecofilosea				uncultured	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+439	Eukaryota	SAR	Cercozoa	Thecofilosea				uncultured	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	
+440	Eukaryota	SAR	Cercozoa	(Cercozoa)				uncultured eukaryote	0	0	0	0	0	0	69	0	1	0	1	0	0	0	0	5	0	0	0	0	0	0	0	
+441	Eukaryota	SAR	Cercozoa	(Cercozoa)				uncultured	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+442	Eukaryota	SAR	Cercozoa	(Cercozoa)				Cercozoa sp. M6MM	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+443	Eukaryota	SAR	Cercozoa	(Cercozoa)			Kiitoksia	Kiitoksia sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+445	Eukaryota	SAR	Cercozoa	(Cercozoa)				uncultured Cercozoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+446	Eukaryota	SAR	Cercozoa	(Cercozoa)				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	15	1	0	3	0	0	1	0	0	0	2	0	0	
+447	Eukaryota	SAR	Cercozoa	(Cercozoa)				uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+448	Eukaryota	SAR	Cercozoa	Vampyrellidea	Vampyrellida	Vampyrellidae		uncultured	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+451	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group I			uncultured eukaryote	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	
+452	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group II				0	0	0	0	0	0	0	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+453	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group II			uncultured eukaryote	0	0	0	0	0	2	1	2	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+454	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group II			uncultured marine eukaryote	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+455	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group VI				0	0	0	0	0	0	6	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+456	Eukaryota	SAR	Radiozoa	Acantharia	Holacanthida 	Acanthochiasmidae	Acanthochiasma	Acanthochiasma sp. JD-2012	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+457	Eukaryota	SAR	Radiozoa	Acantharia	Acantharea Group VI			uncultured eukaryote	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+458	Eukaryota	SAR	Radiozoa	Acantharia	Chaunocanthida				0	2	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	
+459	Eukaryota	SAR	Radiozoa	Acantharia	Chaunocanthida			uncultured eukaryote	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+460	Eukaryota	SAR	Foraminifera	(Foraminifera)					0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	1	0	1	0	
+461	Eukaryota	SAR	Foraminifera	Globothalamea	Rotaliida				0	0	0	0	0	0	22	0	0	0	0	0	0	43313	1	63	3	58	167	4360	42	1549	8093	
+462	Eukaryota	SAR	Foraminifera	Tubothalamea	Miliolida				0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	1	0	0	0	1	9	
+463	Eukaryota	SAR	Radiozoa	Polycystinea	Collodaria				0	0	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+464	Eukaryota	SAR	Radiozoa	Polycystinea	Collodaria			AT8-54	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+465	Eukaryota	SAR	Radiozoa	Polycystinea	Nassellaria	Trissocyclidae	Ceratospyris		0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+467	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria	Actinommidae	Cladococcus		0	0	3	1	0	1	0	1	3	1	33	0	0	0	0	0	0	0	0	0	0	0	0	
+469	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria	Spongodiscidae	Spongopyle		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+470	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria	Myelastridae	Triastrum		0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+472	Eukaryota	SAR	Radiozoa	Polycystinea	Spumellaria			uncultured marine eukaryote	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+473	Eukaryota	SAR	Radiozoa	Polycystinea		RAD A			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	
+474	Eukaryota	SAR	Radiozoa	Polycystinea		RAD A		uncultured eukaryote	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+475	Eukaryota	SAR	Radiozoa	Polycystinea		RAD B			0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	
+476	Eukaryota	SAR	Radiozoa	Polycystinea		RAD B		uncultured eukaryote	0	0	0	0	1	0	0	0	0	0	2	0	0	3	0	0	0	0	0	0	0	1	0	
+479	Eukaryota	SAR	Radiozoa	Polycystinea		RAD C		uncultured marine eukaryote	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+480	Eukaryota	SAR	Radiozoa	Polycystinea		RAD C		uncultured marine Polycystinea	0	1	0	0	1	9	9	0	1	12	1	0	0	0	0	0	0	0	0	0	0	0	0	
+482	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales				0	1	0	2	0	0	0	0	0	1	0	0	0	21	0	38	1	104	0	0	24	2	16	
+483	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca		0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	18	0	0	1	0	6	
+484	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	Bicosoeca kenaiensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+485	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	Bicosoeca vacillans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+486	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	Stramenopile sp. MESS21	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+487	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	4	0	18	0	0	1	0	2	
+488	Eukaryota	SAR	Bigyra	Bicoecea	Anoecida	Caecitellidae	Caecitellus		0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	24	0	102	0	0	1	1	30	
+489	Eukaryota	SAR	Bigyra	Bicoecea	Anoecida	Caecitellidae	Caecitellus	Caecitellus paraparvulus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+490	Eukaryota	SAR	Bigyra	Bicoecea	Anoecida	Caecitellidae	Caecitellus	Caecitellus parvulus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	60	0	0	0	0	22	
+491	Eukaryota	SAR	Bigyra	Bicoecea	Anoecida	Caecitellidae	Caecitellus	Caecitellus sp. RCC1078	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	23	0	0	1	0	1	
+492	Eukaryota	SAR	Bigyra	Bicoecea	Anoecida	Caecitellidae	Caecitellus	uncultured picobiliphyte	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+493	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Anoecida	Cafeteriidae	Cafeteria		0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	
+494	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	CH1-2B-3		uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	
+495	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Caecitellales	Caecitellaceae	Halocafeteria		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	
+496	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	LG08-10	LG08-10		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+497	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	LG08-10	LG08-10	metagenome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+498	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	LG08-10	LG08-10	uncultured freshwater eukaryote	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+501	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo	uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+502	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo	uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	1	0	0	0	0	2	
+503	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales			uncultured	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	1	0	2	0	14	
+504	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales			uncultured eukaryote	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+505	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales			uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	19	0	118	2	0	14	1	28	
+506	Eukaryota	SAR	Bigyra	Bicosoecophyceae	Bicosoecales			uncultured microeukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+507	Eukaryota	SAR	Stramenopiles	Hyphochytriomycetes	Hyphochytriales	Hyphochytriales			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+508	Eukaryota	SAR	Stramenopiles	Hyphochytriomycetes	Hyphochytriales	Hyphochytriales		uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+509	Eukaryota	SAR	Stramenopiles	Incertae Sedis					0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510	Eukaryota	SAR	Stramenopiles	Blastocystea	Blastocystida	Blastocystidae	Blastocystis		0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	9	0	0	1	0	4	
+511	Eukaryota	SAR	Stramenopiles	Blastocystea	Blastocystida	Blastocystidae	Blastocystis	Blastocystis sp. C4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	
+512	Eukaryota	SAR	Stramenopiles	Blastocystea	Blastocystida	Blastocystidae	Blastocystis	Blastocystis sp. subtype 8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+513	Eukaryota	SAR	Stramenopiles	Incertae Sedis	 Pirsoniales	Pirsoniaceae	Pirsonia		0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	
+514	Eukaryota	SAR	Bigyra	Labyrinthulea					0	0	7	0	0	0	0	0	0	0	0	0	0	15	2	17	0	245	5	0	3	9	75	
+515	Eukaryota	SAR	Bigyra	Labyrinthulea	Amphitraematales	Amphitraemidae			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	
+516	Eukaryota	SAR	Bigyra	Labyrinthulea	Amphitraematales	Diplophryaceae	Diplophrys	Diplophrys sp. ATCC_50360	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+517	Eukaryota	SAR	Bigyra	Labyrinthulea		Incertae Sedis	Stellarchytrium	Stellarchytrium dubum	0	0	3	0	0	0	0	0	0	0	0	0	0	3	1	4	1	44	3	1	0	1	19	
+518	Eukaryota	SAR	Bigyra	Labyrinthulea	Labyrinthulida	Labyrinthulidae	Labyrinthula		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	3	1	2	
+519	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae			0	0	0	1	0	0	8	3	0	0	0	0	0	0	0	15	0	25	0	0	0	4	4	
+520	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Aplanochytrium		0	1	3	0	0	2	1	3	0	0	0	0	0	1	0	1	2	7	0	39	1	29	25	
+521	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Aplanochytrium	Aplanochytrium blankum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	
+522	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Aplanochytrium	uncultured eukaryote	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	1	3	
+523	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Aurantiochytrium		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+525	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Schizochytrium		0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+526	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Schizochytrium	Schizochytrium minutum	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	3	0	0	0	0	0	
+527	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Sicyoidochytrium		0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	2	0	7	0	0	0	5	1	
+528	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Sicyoidochytrium	Sicyoidochytrium minutum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+529	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Sicyoidochytrium	Thraustochytriidae sp. Fng1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+530	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium		0	0	0	0	0	9	0	1	0	0	0	0	0	0	0	10	0	0	0	0	0	0	1	
+531	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	labyrinthulid quahog parasite QPX	0	0	0	0	0	0	2	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+532	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	Thraustochytriidae sp. KB 39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+533	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	Thraustochytriidae sp. SEK 683	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	3	0	0	0	0	0	0	0	
+534	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	Thraustochytrium aff. striatum BAFCcult 3527	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+535	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	Thraustochytrium gaertnerium	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+536	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Thraustochytrium	uncultured eukaryote	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+537	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae	Ulkenia	Ulkenia profunda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+538	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae			0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+539	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae		Thraustochytriidae sp. NK58	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	4	0	
+540	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae		uncultured eukaryote	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+541	Eukaryota	SAR	Bigyra	Labyrinthulea	Thraustochytrida	Thraustochytriaceae		uncultured labyrinthulid	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	
+542	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured labyrinthulid	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	3	0	52	4	1	0	0	19	
+543	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured stramenopile	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	19	1	0	0	0	13	
+544	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	3	0	0	0	2	3	
+546	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured labyrinthulid	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+547	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+548	Eukaryota	SAR	Bigyra	Labyrinthulea				uncultured stramenopile	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+549	Eukaryota	SAR	Stramenopiles	MAST-1					0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+550	Eukaryota	SAR	Stramenopiles	MAST-11					0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+551	Eukaryota	SAR	Stramenopiles	MAST-12					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	5	0	0	1	0	1	
+552	Eukaryota	SAR	Stramenopiles	MAST-12		MAST-12A		uncultured stramenopile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+553	Eukaryota	SAR	Stramenopiles	MAST-12		MAST-12C			0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	2	0	5	
+554	Eukaryota	SAR	Stramenopiles	MAST-12		MAST-12D			0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	
+555	Eukaryota	SAR	Stramenopiles	MAST-3					0	2	0	0	0	0	24	2	1	6	0	0	0	0	0	2	0	93	0	0	6	0	16	
+556	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3A		uncultured eukaryote	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+557	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3E		uncultured stramenopile	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+558	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3F			0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	
+559	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3F		uncultured marine stramenopile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+560	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3F		uncultured stramenopile	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+561	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3I			0	8	0	0	0	2	55	0	10	2	2	0	0	0	0	0	0	0	0	0	0	0	0	
+562	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3I		uncultured eukaryote	0	0	0	0	0	0	20	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+563	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3I		uncultured stramenopile	0	3	0	1	0	2	17	2	5	2	1	1	0	0	0	0	0	0	0	0	0	0	1	
+564	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3J			0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	13	1	202	0	0	13	0	47	
+565	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3J		eukaryote marine clone ME1-18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	
+566	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3J		uncultured eukaryote	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	92	1	0	3	0	22	
+567	Eukaryota	SAR	Stramenopiles	MAST-3		MAST-3J		uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	1	
+568	Eukaryota	SAR	Stramenopiles	MAST-4					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	
+569	Eukaryota	SAR	Stramenopiles	MAST-9					0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+570	Eukaryota	SAR	Stramenopiles	MAST-9				uncultured eukaryote	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+572	Eukaryota	SAR	Ochrophyta	Bolidophyceae	Parmales	Triparmaceae	Bolidomonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+573	Eukaryota	SAR	Ochrophyta	Bolidophyceae	Parmales	Triparmaceae	Bolidomonas	uncultured marine eukaryote	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+574	Eukaryota	SAR	Ochrophyta	Chrysophyceae					0	0	0	0	0	1	1	0	0	0	0	0	0	65	0	722	0	66	4	1	1	127	9	
+575	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Chromulinales				0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	71	0	5	0	0	0	22	0	
+576	Eukaryota	SAR	Bigyra	Blastocystea	Blastocystida	Blastocystidae	Blastocystis	Blastocystis sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+577	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Chromulinales			uncultured	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+578	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales	Ochromonadaceae	Uroglena		0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	17	0	0	0	0	0	5	0	
+579	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	1	0	0	0	1	0	
+580	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales	Chrysolepidomonadaceae 	Chrysolepidomonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+581	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales	Ochromonadaceae	Ochromonas		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	2	0	0	0	0	0	
+582	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales	Paraphysomonadaceae	Paraphysomonas		0	0	0	0	0	1	0	0	0	0	0	0	0	7	2	19	1	97	2	0	5	2	21	
+583	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Ochromonadales			uncultured	0	0	2	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+584	Eukaryota	SAR	Ochrophyta	Chrysophyceae	Synurales	Mallomonadaceae	Synura		0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	
+585	Eukaryota	SAR	Ochrophyta	Chrysophyceae				uncultured	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	0	17	0	0	0	2	2	
+586	Eukaryota	SAR	Ochrophyta	Chrysophyceae				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+587	Eukaryota	SAR	Ochrophyta	Chrysophyceae				uncultured freshwater eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	
+590	Eukaryota	SAR	Heterokontophyta	Bacillariophyceae					0	0	0	0	0	2	0	0	0	0	1	0	0	0	1	3	2	1	0	0	0	0	11	
+594	Eukaryota	SAR	Heterokontophyta	Coscinodiscophyceae	Coscinodiscales	Hemidiscaceae	Actinoptychus	Actinoptychus splendens	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+595	Eukaryota	SAR	Heterokontophyta	Coscinodiscophyceae	Coscinodiscales	Coscinodiscaceae	Corethrids		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+596	Eukaryota	SAR	Heterokontophyta	Coscinodiscophyceae	Coscinodiscales	Coscinodiscaceae	Coscinodiscus		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+597	Eukaryota	SAR	Heterokontophyta	Bacillariophyceae	Fragilariales				0	11	0	0	0	3	1	0	0	0	0	0	1	504	2	110	218	290	9	167	232	396	241	
+598	Eukaryota	SAR	Heterokontophyta	Coscinodiscophyceae	Rhizosoleniales	Rhizosoleniaceae	Rhizosolenids		0	0	0	0	0	0	3	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+599	Eukaryota	SAR	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Hyalosynedra	Hyalosynedra prasadii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	2	
+600	Eukaryota	SAR	Ochrophyta	Dictyochophyceae					0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+601	Eukaryota	SAR	Ochrophyta	Dictyochophyceae	Dictyochales	Florenciellales	Florenciella		0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+604	Eukaryota	SAR	Ochrophyta	Eustigmatophyceae	Eustigmatales	Chlorobotryaceae	Chlorobotrys		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+605	Eukaryota	SAR	Ochrophyta	Eustigmatophyceae	Goniochloridales	Goniochloridaceae	Goniochloris		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+606	Eukaryota	SAR	Ochrophyta	Eustigmatophyceae	Eustigmatales			uncultured	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	
+607	Eukaryota	SAR	Ochrophyta	Eustigmatophyceae	Eustigmatales			uncultured Eustigmatophyceae	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+609	Eukaryota	SAR	Ochrophyta	Phaeophyceae					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	
+610	Eukaryota	SAR	Ochrophyta	Phaeophyceae	Ectocarpales				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	
+611	Eukaryota	SAR	Ochrophyta	Phaeophyceae	Ectocarpales	uncultured	uncultured	uncultured eukaryote	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+612	Eukaryota	SAR	Ochrophyta	Raphidophyceae	Chattonellales				0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+613	Eukaryota	SAR	Ochrophyta	Xanthophyceae					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+614	Eukaryota	SAR	Ochrophyta	Xanthophyceae				uncultured eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	
+615	Eukaryota	SAR	Placidozoa	Opalinea	Slopalinida	 Proteromonadidae	Karotomorpha	Karotomorpha sp. RAPI1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+616	Eukaryota	SAR	Bigyra	Opalinea	Opalinata	Opalinidae	Opalina undulata	Opalina undulata	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+618	Eukaryota	SAR	Oomycota	Oomycetes	Peronosporales	Peronosporaceae	Halophytophthora	Halophytophthora epistomium	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	
+619	Eukaryota	SAR	Oomycota	Oomycetes	Lagenidiales	Lagenidiaceae	Lagenidium		0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+620	Eukaryota	SAR	Oomycota	Oomycetes	Lagenidiales	Lagenidiaceae	Salilagenidium	Salilagenidium thermophilum	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	
+621	Eukaryota	SAR	Oomycota	Oomycetes	Saprolegniales	Olpidiaceae	Olpidiopsis	Olpidiopsis pyropiae	0	0	1	0	0	0	17	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+622	Eukaryota	SAR	Oomycota	Oomycetes	Saprolegniales	Olpidiaceae	Olpidiopsis		0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+623	Eukaryota	SAR	Oomycota	Oomycetes	Pythiales	Pythiaceae	Pythium		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+624	Eukaryota	SAR	Oomycota	Oomycetes				uncultured eukaryote	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+625	Eukaryota	SAR	Oomycota	Oomycetes				uncultured	0	0	10	3	0	1	154	5	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+626	Eukaryota	SAR	Bigyra	Placidiophyceae	Placidiales	Placidiaceae	Placidia	Placidia cafeteriopsis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	2	1	5	
+627	Eukaryota	SAR	Bigyra	Placidiophyceae	Placidiales	Placidiaceae		Stramenopile sp. ME5	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+628	Eukaryota	SAR	Stramenopiles	(Stramenopiles)				uncultured eukaryote	0	0	0	0	1	6	3	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	
+629	Eukaryota	SAR	Stramenopiles	(Stramenopiles)				uncultured	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+630	Eukaryota	(Eukaryota)	(Eukaryota)	(Eukaryota)				uncultured marine eukaryote	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+7	Eukaryota	Amorphea	Amoebozoa	Cavosteliida	Cavosteliida	Cavosteliidae	Tychosporium	Tychosporium acutostipes		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

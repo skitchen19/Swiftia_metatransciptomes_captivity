@@ -1,0 +1,207 @@
+---
+title: "swiftia_DNA"
+output: pdf_document
+date: "2025-12-01"
+---
+
+```{r}
+#BiocManager::install("dada2")
+library(Rcpp)
+library(dada2)
+#Indicate where the data is
+path <- "/scratch/group/kitchen-group/lab/tiana/swifita/trimmed_reads"
+filtered_path <- file.path(path, "filtered")
+dir.create(filtered_path, showWarnings = FALSE)
+#Set the forwards and reverse
+fnFs <- list.files(path, pattern="_trim_R1\\.fastq\\.gz$", full.names=TRUE)
+fnRs <- list.files(path, pattern="_trim_R2\\.fastq\\.gz$", full.names=TRUE)
+#Extract sample names
+sample.num <- as.numeric(gsub(".*_(\\d+)V3V4_trim_R1.*", "\\1", fnFs))
+ord <- order(sample.num)
+fnFs <- fnFs[ord]
+fnRs <- fnRs[ord]
+sample.names <- sapply(strsplit(basename(fnFs), "_trim_R1"), `[`, 1)
+filtFs <- file.path(filtered_path, paste0(sample.names, "_F_filt.fq.gz"))
+filtRs <- file.path(filtered_path, paste0(sample.names, "_R_filt.fq.gz"))
+names(filtFs) <- sample.names
+names(filtRs) <- sample.names
+head(sample.names)
+#Plot sequences quality to see where our reads diminish
+plotQualityProfile(fnFs[1:3])
+plotQualityProfile(fnRs[1:3])
+#Checking the plots
+plotsf<-plotQualityProfile(fnFs[1:26])
+plotsr<-plotQualityProfile(fnRs[1:26])
+pdf("/scratch/group/kitchen-group/lab/tiana/swifita/trimmed_reads/16s_fnfs1-20.pdf")
+plotsf
+dev.off()
+pdf("/scratch/group/kitchen-group/lab/tiana/swifita/trimmed_reads/16s_fnfs2-20.pdf")
+plotsr
+dev.off()
+```
+
+```{r}
+length(fnFs)
+length(fnRs) #makes sure you have equal forward and reverse 
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(250,250), maxN=0, maxEE=c(10,10), truncQ=2, rm.phix=TRUE, compress=TRUE, multithread=FALSE)
+head(out)
+set.seed(100)
+errF <- learnErrors(filtFs, nbases=1e8, multithread=TRUE, randomize=TRUE)
+errR <- learnErrors(filtRs, nbases=1e8, multithread=TRUE, randomize=TRUE)
+```
+
+```{r}
+derepFs <- derepFastq(filtFs) #gets rid of sim reads 
+derepRs <- derepFastq(filtRs)
+sam.names <- sub("_F_filt\\.fq\\.gz$", "", basename(filtFs))
+names(derepFs) <- sam.names
+names(derepRs) <- sam.names
+ddFs <- dada(derepFs, err=NULL, selfConsist=TRUE)
+ddRs <- dada(derepRs, err=NULL, selfConsist=TRUE)
+class(ddFs) #want to see dada or list to make sure you populated the right info
+class(ddRs)
+
+
+pdf("ddFs_Error_Plot.pdf")
+plotErrors(ddFs)
+dev.off()
+pdf("ddRs_Error_Plot.pdf")
+plotErrors(ddRs)
+dev.off()
+
+plotErrors(ddFs)
+plotErrors(ddRs) #could not get these to populate, so I included the code above to save them as PDFs
+dadaFs <- dada(derepFs, err=ddFs[[1]]$err_out, pool=TRUE, multithread=2) 
+dadaRs <- dada(derepRs, err=ddRs[[1]]$err_out, pool=TRUE, multithread=2)
+dadaFs[[1]]
+mergers <- mergePairs(dadaFs, derepFs, dadaRs, derepRs, verbose=TRUE) #table of every step how reads have decreased/got filtered out through these steps 
+head(mergers[[1]])
+```
+
+```{r}
+getN <- function(x) sum(getUniques(x))
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs,
+                     trimLeft = 10,
+                     truncLen = c(220, 220),
+                     maxN = 0,
+                     maxEE = 2,
+                     truncQ = 2,
+                     rm.phix = TRUE,
+                     compress = TRUE,
+                     multithread = FALSE)
+track <- cbind(
+  input = out[, "reads.in"],
+  filtered = out[, "reads.out"],
+  denoisedF = sapply(dadaFs, getN),
+  denoisedR = sapply(dadaRs, getN),
+  merged = sapply(mergers, getN)
+)
+rownames(track) <- sample.names
+track <- as.data.frame(track)
+print(track)
+write.csv(track, file = "read_tracking_summary.csv", quote = FALSE)
+```
+
+```{r}
+seqtab.all <- makeSequenceTable(mergers)
+rownames(seqtab.all)
+seqtab <- removeBimeraDenovo(seqtab.all, multithread = TRUE) 
+dim(seqtab)
+table(nchar(getSequences(seqtab))) # Inspect distribution of sequence lengths --> a lot of them fall in length of 307 which can indicate incomplete merges, contamination, and not true V3V4 sequences, so filter them out (read should be in 400s)
+
+# Filter to V3V4 range (400-430bp)
+seqtab.filtered <- seqtab[, nchar(getSequences(seqtab)) >= 400]
+seqtab.filtered <- seqtab.filtered[, nchar(getSequences(seqtab.filtered)) <= 430] #DOWNLOAD TO LOCAL DESKTOP
+saveRDS(seqtab.filtered, "seqtab_filtered.rds")
+table(nchar(getSequences(seqtab.filtered))) #Verify lengths 
+write.csv(seqtab.filtered, "ASV_table_V3V4_filtered.csv")
+```
+#Check reads after removing reads that are less than 400 bp 
+```{r}
+#Sequences and abundances from original seqtab
+seqs <- getSequences(seqtab)
+lengths <- nchar(seqs)
+abundances <- colSums(seqtab)
+
+#Reads by length group
+short_reads <- sum(abundances[lengths < 400])
+target_reads <- sum(abundances[lengths >= 400 & lengths <= 430])
+total_reads <- sum(abundances)
+cat("=== Read Retention Analysis ===\n\n")
+cat("Short sequences (< 400bp):", short_reads, "reads (", 
+    round(short_reads/total_reads*100, 1), "%)\n")
+cat("Target sequences (400-430bp):", target_reads, "reads (", 
+    round(target_reads/total_reads*100, 1), "%)\n")
+cat("Total reads:", total_reads, "\n\n")
+
+#Average abundance per ASV
+cat("=== Average Reads per ASV ===\n")
+cat("307bp ASVs:", round(mean(abundances[lengths == 307]), 0), "reads/ASV\n")
+cat("427bp ASVs:", round(mean(abundances[lengths == 427]), 0), "reads/ASV\n\n")
+
+#Summary table
+length_summary <- data.frame(
+  Length_Group = c("< 400bp", "400-430bp", "Total"),
+  ASVs = c(sum(lengths < 400), 
+           sum(lengths >= 400 & lengths <= 430), 
+           length(lengths)),
+  Reads = c(short_reads, target_reads, total_reads),
+  Percent_Reads = c(round(short_reads/total_reads*100, 1),
+                    round(target_reads/total_reads*100, 1),
+                    100)
+)
+
+print(length_summary)
+
+#Visualize
+library(ggplot2)
+ggplot(length_summary[1:2,], aes(x=Length_Group, y=Percent_Reads, fill=Length_Group)) +
+  geom_bar(stat="identity") +
+  theme_bw() +
+  labs(title="Read Retention by Length Group",
+       x="Length Group",
+       y="Percentage of Total Reads") +
+  geom_text(aes(label=paste0(Percent_Reads, "%")), vjust=-0.5)
+```
+
+
+#Assign Taxonomy (ON LOCAL COMPUTER) 
+```{r}
+ref_fasta <- "/scratch/group/kitchen-group/lab/tiana/swifita/silva_nr99_v138.2_toSpecies_trainset.fa" 
+#Download Silva SSU DADA2 trained version 138.2 to species 
+taxa <- assignTaxonomy(seqtab.filtered, refFasta=ref_fasta, multithread=2, taxLevels = c("Kingdom","Phylum","Class", "Order","Family","Genus", "Species"))
+#colnames(taxa) <- c("Kingdom", "Supergroup","Division", "Class", "Order", "Family", "Genus", "Species")
+#make r data object 
+saveRDS(taxa, "taxa_filtered.rds")
+```
+
+# write sequences to file
+```{r}
+library(ShortRead)
+seqsFilt <- getSequences(seqtab.filtered)
+names(seqsFilt) <- paste0("ASV", seq_along(seqsFilt))
+writeFasta(seqsFilt, "output_asvs_032526.fasta")
+```
+
+# make phyloseq object
+```{r}
+library(phyloseq)
+metadata <- read.table("metadata.txt",sep = "\t", header = T)
+
+samples.out <- rownames(seqtab.filtered)
+rownames(metadata) <- samples.out
+
+colnames(seqtab.filtered) <- paste0("ASV", seq_along(seqtab.filtered[1,]))
+transposed_seqtab.filtered <- t(seqtab.filtered)
+
+rownames(taxa) <- paste0("ASV", seq_along(taxa[,1]))
+head(taxa, n=3)
+
+ps <- phyloseq(otu_table(transposed_seqtab.filtered, taxa_are_rows=TRUE),
+               sample_data(metadata),
+               tax_table(taxa))
+
+head(otu_table(ps))
+
+saveRDS(ps, "032526_phyloseq_object.rds")
+```

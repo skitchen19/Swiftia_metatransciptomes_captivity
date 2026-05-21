@@ -1,0 +1,151 @@
+ID	Description	percent_cnidarian	group
+ko00565	Ether lipid metabolism	0.727272727	all
+ko00590	Arachidonic acid metabolism	0.333333333	all
+ko01040	Biosynthesis of unsaturated fatty acids	0.739413681	all
+ko01212	Fatty acid metabolism	0.786363636	all
+ko01521	EGFR tyrosine kinase inhibitor resistance	0.372881356	human
+ko01522	Endocrine resistance	0.45	human
+ko01523	Antifolate resistance	0.615384615	human
+ko01524	Platinum drug resistance	0.595744681	human
+ko03320	PPAR signaling pathway	0.365384615	all
+ko04010	MAPK signaling pathway	0.558333333	all
+ko04014	Ras signaling pathway	0.613636364	all
+ko04015	Rap1 signaling pathway	0.580246914	all
+ko04020	Calcium signaling pathway	0.625	all
+ko04022	cGMP-PKG signaling pathway	0.538461538	all
+ko04071	Sphingolipid signaling pathway	0.671875	all
+ko04072	Phospholipase D signaling pathway	0.642857143	all
+ko04082	Neuroactive ligand signaling	0.7	all
+ko04114	Oocyte meiosis	0.652777778	all
+ko04115	p53 signaling pathway	0.5	all
+ko04141	Protein processing in endoplasmic reticulum	0.769230769	all
+ko04144	Endocytosis	0.766666667	all
+ko04145	Phagosome	0.472972973	all
+ko04148	Efferocytosis	0.451923077	all
+ko04151	PI3K-Akt signaling pathway	0.622222222	all
+ko04218	Cellular senescence	0.628865979	all
+ko04270	Vascular smooth muscle contraction	0.555555556	all
+ko04310	Wnt signaling pathway	0.655913978	all
+ko04360	Axon guidance	0.561151079	all
+ko04361	Axon regeneration	0.571428571	all
+ko04370	VEGF signaling pathway	0.535714286	all
+ko04510	Focal adhesion	0.693548387	all
+ko04517	IgSF CAM signaling	0.403846154	all
+ko04519	Cadherin signaling	0.577380952	all
+ko04610	 Complement and coagulation cascades	0.054054054	all
+ko04611	Platelet activation	0.414285714	all
+ko04613	Neutrophil extracellular trap formation	0.32183908	all
+ko04621	NOD-like receptor signaling pathway	0.293103448	all
+ko04664	Fc epsilon RI signaling pathway	0.404761905	all
+ko04666	Fc gamma R-mediated phagocytosis	0.595744681	all
+ko04668	TNF signaling pathway	0.377358491	all
+ko04670	Leukocyte transendothelial migration	0.46835443	all
+ko04722	Neurotrophin signaling pathway	0.61038961	all
+ko04724	Glutamatergic synapse	0.64	all
+ko04726	Serotonergic synapse	0.595744681	all
+ko04740	Olfactory transduction	0.6	all
+ko04742	Taste Transduction	0.264705882	all
+ko04745	Phototransduction - fly	0.545454545	all
+ko04750	Inflammatory mediator regulation of TRP channels	0.510204082	all
+ko04810	Regulation of actin cytoskeleton	0.625	all
+ko04820	Cytoskeleton in muscle cells	0.361111111	all
+ko04912	GnRH signaling pathway	0.609756098	all
+ko04914	Progesterone-mediated oocyte maturation	0.736842105	all
+ko04920	Adipocytokine signaling pathway	0.421052632	all
+ko04921	Oxytocin signaling pathway	0.551724138	all
+ko04922	Glucagon signaling pathway	0.62	all
+ko04925	Aldosterone synthesis and secretion	0.487804878	all
+ko04927	Cortisol synthesis and secretion	0.341463415	all
+ko04928	Parathyroid hormone synthesis, secretion and action	0.513513514	all
+ko04930	Type II diabetes mellitus	0.48	human
+ko04931	Insulin resistance	0.485148515	human
+ko04932	Non-alcoholic fatty liver disease	0.470588235	human
+ko04933	AGE-RAGE signaling pathway in diabetic complications	0.419354839	human
+ko04934	Cushing syndrome	0.528735632	human
+ko04936	Alcoholic liver disease	0.449541284	human
+ko04960	Aldosterone-regulated sodium reabsorption	0.368421053	all
+ko04970	Salivary secretion	0.5	all
+ko04972	Pancreatic secretion	0.595744681	all
+ko04974	Protein digestion and absorption	0.481481481	all
+ko04976	Bile secretion	0.34375	all
+ko04979	Cholesterol metabolism	0.234567901	all
+ko04981	Folate transport and metabolism	0.7	all
+ko05010	Alzheimer disease	0.661654135	human
+ko05012	Parkinson disease	0.689320388	human
+ko05014	Amyotrophic lateral sclerosis	NA	human
+ko05016	Huntington disease	NA	human
+ko05017	Spinocerebellar ataxia	NA	human
+ko05020	Prion disease	NA	human
+ko05022	Pathways of neurodegeneration - multiple diseases	NA	human
+ko05030	Cocaine addiction	NA	human
+ko05031	Amphetamine addiction	NA	human
+ko05032	Morphine addiction	NA	human
+ko05033	Nicotine addiction	NA	human
+ko05034	Alcoholism	0.629032258	human
+ko05100	Bacterial invasion of epithelial cells	NA	human
+ko05110	Vibrio cholerae infection	NA	human
+ko05120	Epithelial cell signaling in Helicobacter pylori infection	NA	human
+ko05130	Pathogenic Escherichia coli infection	NA	human
+ko05131	Shigellosis	NA	human
+ko05132	Salmonella infection	NA	human
+ko05133	Pertussis	NA	human
+ko05134	Legionellosis	NA	human
+ko05135	Yersinia infection	NA	human
+ko05140	Leishmaniasis	NA	human
+ko05142	Chagas disease	NA	human
+ko05143	African trypanosomiasis	NA	human
+ko05144	Malaria	NA	human
+ko05145	Toxoplasmosis	NA	human
+ko05146	Amoebiasis	NA	human
+ko05150	Staphylococcus aureus infection	NA	human
+ko05152	Tuberculosis	NA	human
+ko05160	Hepatitis C	NA	human
+ko05161	Hepatitis B	NA	human
+ko05162	Measles	NA	human
+ko05163	Human cytomegalovirus infection	NA	human
+ko05164	Influenza A	NA	human
+ko05165	Human papillomavirus infection	NA	human
+ko05166	Human T-cell leukemia virus 1 infection	NA	human
+ko05167	Kaposi sarcoma-associated herpesvirus infection	NA	human
+ko05168	Herpes simplex virus 1 infection	NA	human
+ko05169	Epstein-Barr virus infection	NA	human
+ko05170	Human immunodeficiency virus 1 infection	NA	human
+ko05171	Coronavirus disease - COVID-19	NA	human
+ko05200	Pathways in cancer	NA	human
+ko05202	Transcriptional misregulation in cancer	NA	human
+ko05203	Viral carcinogenesis	NA	human
+ko05204	Chemical carcinogenesis - DNA adducts	NA	human
+ko05205	Proteoglycans in cancer	NA	human
+ko05206	MicroRNAs in cancer	NA	human
+ko05207	Chemical carcinogenesis - receptor activation	NA	human
+ko05208	Chemical carcinogenesis - reactive oxygen species	NA	human
+ko05210	Colorectal cancer	NA	human
+ko05211	Renal cell carcinoma	NA	human
+ko05212	Pancreatic cancer	NA	human
+ko05213	Endometrial cancer	NA	human
+ko05214	Glioma	NA	human
+ko05215	Prostate cancer	NA	human
+ko05216	Thyroid cancer	NA	human
+ko05217	Basal cell carcinoma	NA	human
+ko05218	Melanoma	NA	human
+ko05219	Bladder cancer	NA	human
+ko05220	Chronic myeloid leukemia	NA	human
+ko05221	Acute myeloid leukemia	NA	human
+ko05222	Small cell lung cancer	NA	human
+ko05223	Non-small cell lung cancer	NA	human
+ko05224	Breast cancer	NA	human
+ko05225	Hepatocellular carcinoma	NA	human
+ko05226	Gastric cancer	NA	human
+ko05230	Central carbon metabolism in cancer	NA	human
+ko05231	Choline metabolism in cancer	NA	human
+ko05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	NA	human
+ko05322	Systemic lupus erythematosus	NA	human
+ko05323	Rheumatoid arthritis	NA	human
+ko05410	Hypertrophic cardiomyopathy	NA	human
+ko05412	Arrhythmogenic right ventricular cardiomyopathy	NA	human
+ko05414	Dilated cardiomyopathy	NA	human
+ko05415	Diabetic cardiomyopathy	NA	human
+ko05416	Viral myocarditis	NA	human
+ko05417	Lipid and atherosclerosis	NA	human
+ko05418	Fluid shear stress and atherosclerosis	NA	human
+ko02020	Two-component system	NA	bacteria
